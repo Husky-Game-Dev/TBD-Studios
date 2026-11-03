@@ -1,0 +1,7 @@
+# Require review from these people for all files
+
+- @Caeden117 @knguyen-hub @MiroslavPavlenko @reacorr @angelmiulkie @Phyzith
+
+# Protect the CODEOWNERS file itself
+
+/.github/CODEOWNERS @Caeden117 @knguyen-hub @MiroslavPavlenko @reacorr @angelmiulkie @Phyzith
